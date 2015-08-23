@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">OpenDelta</string>
+    <string name="app_name">MaxiXMDelta</string>
     <string name="title">System updates</string>
 
     <string name="action_networks">Networks</string>
