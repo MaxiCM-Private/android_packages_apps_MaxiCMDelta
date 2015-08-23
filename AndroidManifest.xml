@@ -32,6 +32,9 @@
             android:label="@string/title"
             android:launchMode="singleInstance"> 
             <intent-filter android:priority="2147483647" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
                 <!-- 
                 	Show up under Settings, About Device, System Updates. 
                 	Assuming that is not disabled. There's a config option for that.
