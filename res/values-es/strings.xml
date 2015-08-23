@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">OpenDelta</string>
+    <string name="app_name">MaxiCMDelta</string>
     <string name="title">Actualizaciones del sistema</string>
 
     <string name="action_networks">Redes</string>
@@ -20,6 +20,8 @@
         Creado para <b>el proyecto OmniROM</b><br>
         <br>
         Licenciado bajo los términos de la <b>GNU General Public License, version 3.0 (GPLv3)</b><br>
+        <br>
+        Gracias a OpenDelta por el Source de su App
         <br>
         Decodificación Delta basada en <b>xdelta</b>, copyright &copy; _COPYRIGHT_XDELTA_ <b>Joshua MacDonald</b><br>
     ]]></string>
